@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;shoushi.Point&apos; to &apos;swipe&apos;&#x0D;&#x0A;- Original project: &apos;Testapp&apos;&#x0D;&#x0A;- Original element: &apos;shoushi.Point&apos;&#x0D;&#x0A;- Renamed element: &apos;shoushi.swipe&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Point&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;shoushi{Point.java[Point" matchStrategy="1" name="swipe" qualified="false" references="true" similarDeclarations="false" stamp="1471315337975" textual="false" version="1.0"/>
+</session>
