@@ -5,6 +5,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="C:/Users/QQ/Desktop/java-client-3.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/QQ/Desktop/selenium-server-standalone-2.49.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/QQ/Desktop/selenium-java-2.44.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/QQ/Desktop/selenium-java-2.48.2.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

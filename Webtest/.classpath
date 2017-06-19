@@ -63,5 +63,6 @@
 	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_25/lib/plugin.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_25/lib/resources.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_25/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/QQ/Desktop/selenium-java-2.48.2.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
